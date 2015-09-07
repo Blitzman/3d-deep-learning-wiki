@@ -1,8 +1,8 @@
-# Deep Learning
+# 3D Deep Learning
 
 ## Cloning the wiki
 ```
-$ git clone https://Blitzman@bitbucket.org/Blitzman/masterthesis.git/wiki
+$ git clone git@github.com:Blitzman/3d-deep-learning-wiki.git
 ```
 
 ## Interesting Reads and Links
