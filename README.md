@@ -8,6 +8,8 @@ $ git clone git@github.com:Blitzman/3d-deep-learning-wiki.git
 ## Interesting Reads and Links
 
 - [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision). A curated list of deep learning resources for computer vision.
+- [Deep Learning: An MIT Press book in preparation](http://www.iro.umontreal.ca/~bengioy/dlbook/).
+- [Deep Learning Reading List](http://deeplearning.net/reading-list/). A list of books, papers, surveys and other readings about deep learning.
 - [Deep down the rabbit hole: CVPR 2015 and beyond](http://www.computervisionblog.com/2015/06/deep-down-rabbit-hole-cvpr-2015-and.html). Insightful review of the CVPR2015, including ConvNets, Torch vs Caffe, object detectors, and ArXiv publishing.
 - [CVPR2015 recap and where we are going](http://zoyathinks.blogspot.com.es/2015/06/cvpr-recap-and-where-were-going.html). Nice summary of the whole conference, as well as a cool summary/highlights [document](http://web.mit.edu/zoya/www/CVPR2015brief.pdf) of some selected papers.
 
